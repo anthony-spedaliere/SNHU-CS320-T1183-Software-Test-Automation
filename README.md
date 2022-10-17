@@ -1,2 +1,11 @@
 # SNHU-CS320-T1183-Software-Test-Automation
 Repository for CS320 Software Test Automation &amp; QA projects
+
+How can I ensure that my code, program, or software is functional and secure?
+It is impossible to ensure a program is 100% functional and secure. However, there are steps a software developer should take in order to achieve the most functional and secure program that they can possibly create. Ensuring a program is secure involves thoroughly reviewing the programs code and dependencies of the program for any vulnerabilities that may be present. To ensure the program is functional, extensive testing should be done on the program to ensure the program runs as intended. Tests should be based on specifications that directly correlate to the clients vision of how the application is inteded to operate. Typically, tests are first done at a unit level, progressing to integration testing and then to system testing and acceptance testing. This approach begins at the micro level and progressively includes more and more of the program until the client and users test the complete program.   
+
+How do I interpret user needs and incorporate them into a program?
+The needs of the users are usually obtained through a question and answer session with the client and potentional users before development and during development. They are interpretted through additional questions meant to clarify prior statements. Additionally, the iterative nature of the software development lifecycle allows for client approval of newly added features as the program is being developed. If a misunderstanding did occur it will be noticed early and corrected before moving to the next feature.  
+
+How do I approach designing software?
+The foundation for designing software is knowing what is the true nature of the problem you are trying to solve. You must understand the problem at a fundamental level before you can begin to think about how to solve it. If the software is your idea than doing research on the problem and developing a solution is key. If your designing software for a client than the key to success is understanding the problem they are trying to solve and figuring out the most efficient way of solving it. The design is derived from this fundamental understanding of the problem.
